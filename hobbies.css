@@ -1,0 +1,124 @@
+header{
+  text-align: center;
+  font-size: 100%;
+  font-family:cursive;
+  color: #efe4e4;
+  background-color: #040404;
+  padding: 1%;
+  border-style: solid;
+  border-color: #efe4e4;
+  height: 1%;
+  
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(images/background.jpg);
+  background-size:110%;
+  background-repeat:repeat;
+  background-position: 100%;
+}
+article {
+  
+  padding: 5%;
+  width: 89%;
+  background-color: #cd858577;
+  height:600px;
+  border-style: solid;
+  border-color: #940707;
+  border-width: 4%;
+  border-radius: 5%;
+  
+  
+}
+footer {
+  background-color: #040404;
+  padding: 45px;
+  color: white;
+  border-style: solid;
+  border-width: 2inc;
+  border-color: rgb(236, 244, 244);
+}
+p{
+  font-size: 150%;
+  color: #f8f3f3;
+}
+div {
+  
+  background-color: rgb(24, 16, 2);
+  padding-top: 30px;
+  padding-right: 100px;
+  padding-bottom: 80px;
+  padding-left: 80px;
+}
+.topnav {
+  
+  background-color: #f3f0f0;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: rgb(11, 10, 10);
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 2px solid transparent;
+}
+
+.topnav a:hover {
+  border-bottom: 2px solid red;
+}
+
+.topnav a.active {
+  border-bottom: 2px solid red;
+}
+a{
+  text-decoration: none;
+  color: #f8eeee;
+  
+}
+a:hover{
+  background-color: brown;
+}
+li {
+  border: 3px solid lightcoral;
+  margin: 5px;
+  padding: 15px;
+  width: fit-content;
+  -moz-text-size-adjust: 100%;
+  font-size: 200%;
+}
+
+ol {
+  border: 3px solid rgba(173, 216, 230, 0);
+  padding: 30px;
+  width: fit-content;
+  margin-left: 30%;
+}
+
+li:hover {
+  background: lightcoral;
+}
+ul{
+  border: 3px solid rgba(173, 216, 230, 0);
+  width: fit-content;
+}
+h1{
+  font-style: initial;
+  text-align: center;
+  color: rgb(185, 238, 87);
+  font-family: cursive;
+  font-size: 250%;
+  font-weight: bolder;
+}
+h2{
+  font-family: fantasy;
+  text-align: center;
+  font-weight:bolder;
+  color: rgb(195, 251, 111);
+  font-weight: bolder;
+}
+p{
+  text-align: center;
+
+}
