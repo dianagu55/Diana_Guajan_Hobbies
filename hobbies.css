@@ -112,7 +112,8 @@ h1{
   font-weight: bolder;
 }
 h2{
-  font-family: initial;
+  font-family: cursive;
+  font-style: initial;
   text-align: center;
   font-weight:500;
   color: rgb(195, 251, 111);
@@ -120,9 +121,10 @@ h2{
   font-size: 250%;
 }
 h3{
-  font-family: initial;
+  font-family: cursive;
+  font-style: initial;
   text-align: center;
-  font-weight:500;
+  font-weight: 500;
   color: rgb(195, 251, 111);
   font-weight: bolder;
   font-size: 250%;
