@@ -90,7 +90,7 @@ li {
 }
 
 ol {
-  border: 3px solid rgba(173, 216, 230, 0);
+  border: 3px solid rgba(227, 234, 237, 0);
   padding: 30px;
   width: fit-content;
   margin-left: 30%;
@@ -112,6 +112,13 @@ h1{
   font-weight: bolder;
 }
 h2{
+  font-family: fantasy;
+  text-align: center;
+  font-weight:500;
+  color: rgb(195, 251, 111);
+  font-weight: bolder;
+}
+h3{
   font-family: fantasy;
   text-align: center;
   font-weight:bolder;
