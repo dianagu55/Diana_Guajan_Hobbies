@@ -112,18 +112,20 @@ h1{
   font-weight: bolder;
 }
 h2{
-  font-family: fantasy;
+  font-family: initial;
   text-align: center;
   font-weight:500;
   color: rgb(195, 251, 111);
   font-weight: bolder;
+  font-size: 250%;
 }
 h3{
-  font-family: fantasy;
+  font-family: initial;
   text-align: center;
   font-weight:500;
   color: rgb(195, 251, 111);
   font-weight: bolder;
+  font-size: 250%;
 }
 p{
   text-align: center;
